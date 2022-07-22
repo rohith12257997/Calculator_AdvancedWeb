@@ -1,0 +1,20 @@
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\bin\Debug\netstandard2.0\SimpleCalculatorLibrary.deps.json
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\bin\Debug\netstandard2.0\SimpleCalculatorLibrary.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\bin\Debug\netstandard2.0\SimpleCalculatorLibrary.pdb
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.AssemblyInfo.cs
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.pdb
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\bin\Debug\netstandard2.0\SimpleCalculatorLibrary.deps.json
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\bin\Debug\netstandard2.0\SimpleCalculatorLibrary.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\bin\Debug\netstandard2.0\SimpleCalculatorLibrary.pdb
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.AssemblyInfo.cs
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorLibrary\obj\Debug\netstandard2.0\SimpleCalculatorLibrary.pdb

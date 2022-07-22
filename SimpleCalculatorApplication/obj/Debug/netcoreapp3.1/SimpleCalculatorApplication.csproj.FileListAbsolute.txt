@@ -1,0 +1,57 @@
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.AssemblyInfo.cs
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.exe
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.deps.json
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.runtimeconfig.json
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.runtimeconfig.dev.json
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.pdb
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorLibrary.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorLibrary.pdb
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\staticwebassets\SimpleCalculatorApplication.StaticWebAssets.Manifest.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\staticwebassets\SimpleCalculatorApplication.StaticWebAssets.xml
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\SimpleCalculatorApplication.styles.css
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.RazorTargetAssemblyInfo.cache
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.csproj.CopyComplete
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.dll
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.pdb
+C:\Users\ideapad\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.genruntimeconfig.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.StaticWebAssets.xml
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.exe
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.deps.json
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.runtimeconfig.json
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.runtimeconfig.dev.json
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorApplication.pdb
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorLibrary.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\netcoreapp3.1\SimpleCalculatorLibrary.pdb
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.AssemblyInfo.cs
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\staticwebassets\SimpleCalculatorApplication.StaticWebAssets.Manifest.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.RazorTargetAssemblyInfo.cache
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.csproj.CopyComplete
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.dll
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.pdb
+C:\Users\rohit\Downloads\New folder (11)\SimpleCalculatorApplication\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\netcoreapp3.1\SimpleCalculatorApplication.genruntimeconfig.cache

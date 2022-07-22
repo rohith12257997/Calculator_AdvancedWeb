@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8jW1QWu2MHT4Fl6X2n8IF96WY4E23Lth0/Y1A3AFVL8Hf45FglGJC6WzOSZPKZpMZ2zJosQLc1m1J6yKSmIdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rohit\\Downloads\\New folder (11)\\SimpleCalculatorApplication\\SimpleCalculatorApplication\\SimpleCalculatorLibrary\\SimpleCalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
